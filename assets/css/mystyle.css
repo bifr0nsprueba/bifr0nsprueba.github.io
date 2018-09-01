@@ -1,0 +1,12 @@
+.logo_quienessomos {
+    width: 20%;
+    transition: width 2s;
+}
+
+.logo_quienessomos:hover {
+    width: 40%;
+}
+
+.links_color{
+    color: lightgray;
+}
