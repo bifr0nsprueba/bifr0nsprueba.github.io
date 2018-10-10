@@ -10,3 +10,12 @@
 .links_color{
     color: lightgray;
 }
+
+.perritos{
+    float: left; 
+    margin-left: 100px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    height: 300px;
+    width: 300px;
+}
